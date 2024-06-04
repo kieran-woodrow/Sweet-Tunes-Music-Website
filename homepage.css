@@ -1,0 +1,289 @@
+
+
+.maindiv{
+
+    height: 100vh;
+    width:101%;
+    background-color:white;
+}
+
+.backgroundtop{
+    height:50vh;
+    width: 100%;
+   /* border-style: dashed;*/
+    background-color: blue;
+    background-image: url(../images/pineapple-supply-co-Q7PclNhVRI0-unsplash.jpg);
+    background-position-x: center;
+    background-size: 500px;
+   
+}
+
+/* .backgroundbottom{
+    height:50%;
+    width: 100%;
+    top:500px;
+    background-color: aliceblue;
+    float:left;
+} */
+
+
+
+.login{
+    height:10%;
+    width: 7%;
+    float: right;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+   
+margin-top: 1.5%;
+    border-radius: 15px;
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 5px;
+    font-family: 'bungee';
+}
+
+
+
+.homepage{
+    height:10%;
+    width: 10%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+    top:20px;
+    font-family: 'bungee';
+   
+   
+}
+
+.trending{
+    height:10%;
+    width: 8%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+    top:20px;
+    font-family: 'bungee';
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    background-color : black;
+    border-radius: 4px;
+}
+
+.newreleases{
+    height:10%;
+    width: 11%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+    top:20px;
+    left:10px;
+    font-family: 'bungee';
+  
+}
+
+.toprated{
+    height:10%;
+    width: 9%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+    top:20px;
+    left:25px;
+    font-family: 'bungee';
+}
+
+.featured{
+    height:10%;
+    width: 8%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+    top:20px;
+    left:35px;  
+    font-family: 'bungee';
+}
+
+.tours{
+    height:10%;
+    width: 8%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+    top:20px;
+    left:25px;
+    font-family: 'bungee';  
+
+}
+
+.calander{
+    height:10%;
+    width: 8%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+    top:20px;
+    left:10px;
+    font-family: 'bungee';  
+
+
+}
+
+.logos{
+   
+    width: 130px;
+    height: 40px;
+    position: relative;
+    float: right;
+    margin-top: 50%;
+    
+    
+    left: 90px;
+   /* border: black;
+    border-style: dashed;*/
+}
+
+.instagram{
+    text-align:center;
+    vertical-align: middle;
+    line-height: 30px;
+    width: 40px;
+    height: 35px;
+    float: left;
+   /* border: black;
+    border-style: dashed;*/
+}
+
+.facebook{
+    text-align:center;
+    vertical-align: middle;
+    line-height: 30px;
+    width: 40px;
+    height: 35px;
+    float: left;
+    /*border: black;
+    border-style: dashed;*/
+    position: relative;
+    
+}
+
+.twitter{
+    text-align:center;
+    vertical-align: middle;
+    line-height: 30px;
+    width: 40px;
+    height: 35px;
+    float: left;
+    /*border: black;
+    border-style: dashed;*/
+    position: relative;
+    left: 0px;
+    bottom: 0px;
+}
+
+.sweet{
+    color: black;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    top: 282px;
+    left: 568px;
+    height: 100px;
+    width: 350px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    font-size: 40px;
+    padding-bottom: 50px;
+    font-family: 'bungee';
+   
+
+}
+
+.tunes1{
+    color: black;
+   /* border-style: solid;
+    border-color: black;*/
+    position: relative;
+    top: 235px;
+    left: 648px;
+    height: 70px;
+    width: 200px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    font-size: 40px;
+    float: left;
+    font-family: 'bungee';
+}
+
+  .follow{
+    font-size: LARGER;
+    position: relative;
+    left: 1170px;
+    
+  
+    width:120px;
+    height:20px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 39.8%;
+    
+}  
+
+
+ .icon img{
+   height: 3%;
+   width:3%;
+   position: relative;
+   top:320px;
+   left: 730px;
+}
