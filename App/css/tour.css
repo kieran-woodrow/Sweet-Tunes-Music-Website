@@ -1,0 +1,307 @@
+body{
+    padding: 0;
+    margin: 0px;
+    background-color: white;
+}
+
+.maindiv{
+
+    height: 100vh;
+    width:100%;
+    background-color:white;
+}
+
+.backgroundtop{
+    height:50vh;
+    width: 100%;
+   /* border-style: dashed;*/
+    background-color: blue;
+    background-image: url(../images/pineapple-supply-co-Q7PclNhVRI0-unsplash.jpg);
+    background-position-x: centre;
+    background-size: 500px;
+   
+}
+
+.backgroundbottom{
+    height:50%;
+    width: 100%;
+    background-color: aliceblue;
+    float:left;
+}
+
+input{
+    border: 3px solid white;
+    height: 40px;
+    width: 300px;
+    border-radius: 50px;
+    padding: 0px 15px;
+    font-family: geneva;
+    font-size: medium;
+    position: relative;
+    left:150px;
+    top:20px;
+    outline:none;
+}
+
+.searchbutton{
+
+position: relative;
+left: 1220px;
+bottom: 17px;
+width: 1.5%;
+
+
+}
+
+.login{
+    height:10%;
+    width: 7%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    background-color:white;
+    position: relative;
+    bottom: 48px;
+    left:1300px;
+    border-radius: 15px;
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 5px;
+    font-family: 'bungee';
+}
+
+.logintext{
+    color: black;
+    position: relative;
+    bottom: 3px;
+}
+
+.homepage{
+    height:10%;
+    width: 10%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+    top:20px;
+    font-family: 'bungee';
+   
+   
+}
+
+.trending{
+    height:10%;
+    width: 8%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+    top:20px;
+    font-family: 'bungee';
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    background-color : black;
+    border-radius: 4px;
+}
+
+.newreleases{
+    height:10%;
+    width: 11%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+    top:20px;
+    left:10px;
+    font-family: 'bungee';
+  
+}
+
+.toprated{
+    height:10%;
+    width: 9%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+    top:20px;
+    left:25px;
+    font-family: 'bungee';
+}
+
+.featured{
+    height:10%;
+    width: 8%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+    top:20px;
+    left:35px;  
+    font-family: 'bungee';
+}
+
+.tours{
+    height:10%;
+    width: 8%;
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 5px;
+    font-family: geneva;
+    font-size: medium;
+    color:white;
+    position: relative;
+    top:20px;
+    left:25px;
+    font-family: 'bungee';  
+
+}
+
+.logos{
+   
+    width: 130px;
+    height: 40px;
+    position: relative;
+    top: 340px;
+    left:1300px; 
+   /* border: black;
+    border-style: dashed;*/
+}
+
+.instagram{
+    text-align:center;
+    vertical-align: middle;
+    line-height: 30px;
+    width: 40px;
+    height: 35px;
+    float: left;
+   /* border: black;
+    border-style: dashed;*/
+}
+
+.facebook{
+    text-align:center;
+    vertical-align: middle;
+    line-height: 30px;
+    width: 40px;
+    height: 35px;
+    float: left;
+    /*border: black;
+    border-style: dashed;*/
+    position: relative;
+    
+}
+
+.twitter{
+    text-align:center;
+    vertical-align: middle;
+    line-height: 30px;
+    width: 40px;
+    height: 35px;
+    float: left;
+    /*border: black;
+    border-style: dashed;*/
+    position: relative;
+    left: 0px;
+    bottom: 0px;
+}
+
+.sweet{
+    color: black;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    bottom: 150px;
+    left: 568px;
+    height: 100px;
+    width: 350px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    font-size: 40px;
+    padding-bottom: 50px;
+    font-family: 'bungee';
+   
+
+}
+
+.tunes1{
+    color: black;
+   /* border-style: solid;
+    border-color: black;*/
+    position: relative;
+    bottom: 200px;
+    left: 648px;
+    height: 70px;
+    width: 200px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    font-size: 40px;
+    float: left;
+    font-family: 'bungee';
+}
+
+.follow{
+    font-size: LARGER;
+    position: relative;
+    left: 1170px;
+    top: 347px;
+   /* border-style: dashed;
+    border-color: black;*/
+    width:120px;
+    height:20px;
+    text-align: center;
+    line-height: 50px
+}
+
+.followtext{
+    position: relative;
+    bottom: 405px;
+}
+
+.soon{
+    /*border-color: black;
+    border-style: dotted;*/
+    width: 20%;
+    height: 10%;
+    position: absolute;
+    left: 41%;
+    text-align: center;
+   vertical-align: middle;
+   font-size: larger;
+   
+   
+    
+}
